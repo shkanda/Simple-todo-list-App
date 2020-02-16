@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    color:grey;
+}
+
+.tasks {
+    text-align: ;
+    width: 90%;
+    margin: 50px auto;
+    color
+}
+
+li {
+    list-style-type: none;
+    font-size: 1.5em;
+    padding: 15px;
+    text-align: left;
+}
+
+.output {
+    width: 95%;
+    text-align: left;
+    color:blue;
+}
+
+.update {
+      margin-bottom: 10px;
+}
+
+.delete {
+      margin-bottom: 10px;
+    }
+
+#add {
+    width: 95%;
+    
+}
+
+.dummy{
+    background-color:whitesmoke;
+}
+
+.lorem{
+    text-align:center;
+    color:grey;
+}
